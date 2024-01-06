@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.prime-video-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.movies-container {
+  background-color: #000000;
+  padding: 20px;
+}
+
+.category-heading {
+  color: #ffffff;
+  font-family: roboto;
+}
